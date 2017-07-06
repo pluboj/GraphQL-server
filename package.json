@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/pluboj/GraphQL-server/issues"
   },
-  "homepage": "https://github.com/pluboj/GraphQL-server#readme"
+  "homepage": "https://github.com/pluboj/GraphQL-server#readme",
+  "dependencies": {
+    "express-graphql": "0.5.3",
+    "graphql": "0.6.0",
+    "sqlite": "0.0.4",
+    "sqlite3": "3.1.3"
+  }
 }
